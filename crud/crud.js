@@ -1,8 +1,5 @@
 let i = 0;
 let data=[
-    {id:i++,name:"salim",email:"xx.email.com"},
-    {id:i++,name:"kalim",email:"xx.email.com"},
-    {id:i++,name:"dalim",email:"xx.email.com"},
 ];
 
 function readAll(){
